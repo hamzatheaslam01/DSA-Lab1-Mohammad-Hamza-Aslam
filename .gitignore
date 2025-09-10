@@ -1,0 +1,17 @@
+# Compiled files
+*.exe
+*.out
+*.obj
+*.o
+
+# Build folders
+/build/
+/bin/
+
+# VS Code settings
+.vscode/
+
+# System files
+Thumbs.db
+*.log
+*.tmp
